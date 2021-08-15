@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\godkarte\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\godkarte\\.nuget\\packages"
+    ]
+  }
+}
